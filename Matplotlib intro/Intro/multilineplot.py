@@ -18,7 +18,7 @@ plt.plot(x3, y3, 'r-', label = 'visitors')
 plt.legend(loc='best')
 
 
-plt.title('Your title')
+plt.title('Classroom')
 plt.xlabel('Horizontal title')
 plt.ylabel('Vertical title')
 plt.show()
